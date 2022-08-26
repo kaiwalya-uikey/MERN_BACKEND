@@ -1,0 +1,4 @@
+{
+"mongoURI":
+"mongodb+srv://montyjs1:monty123@cluster0.q1alo.mongodb.net/?retryWrites=true&w=majority"
+}
